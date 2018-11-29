@@ -28,7 +28,8 @@ public class LightLanterns : MonoBehaviour {
     {
         if (currentFire == null)//light it
         {
-            currentFire = Instantiate(lanternFire, fireRoot.position, new Quaternion(0,0,0,0), transform);
+            currentFire = Instantiate(lanternFire, fireRoot.position, new Quaternion(0,0,0,0), fireRoot);
+            
         }
         else // unlight it
         {
