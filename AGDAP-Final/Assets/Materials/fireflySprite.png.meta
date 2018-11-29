@@ -146,18 +146,18 @@ TextureImporter:
       name: fireflySprite_0
       rect:
         serializedVersion: 2
-        x: 102
-        y: 1915
-        width: 427
-        height: 398
+        x: 0
+        y: 1800
+        width: 600
+        height: 600
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 027e9727f6d578e46994340ed2e088c2
+      spriteID: 9ba5d378f2519e541931b83e35ec2a68
       vertices: []
       indices: 
       edges: []
@@ -166,18 +166,18 @@ TextureImporter:
       name: fireflySprite_1
       rect:
         serializedVersion: 2
-        x: 657
-        y: 1908
-        width: 498
-        height: 335
+        x: 600
+        y: 1800
+        width: 600
+        height: 600
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 393def116363ea54f914a18f88f189ad
+      spriteID: 3873713ecca1bac47bbea6c33dd77110
       vertices: []
       indices: 
       edges: []
@@ -186,18 +186,18 @@ TextureImporter:
       name: fireflySprite_2
       rect:
         serializedVersion: 2
-        x: 1259
-        y: 1868
-        width: 501
-        height: 300
+        x: 1200
+        y: 1800
+        width: 600
+        height: 600
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e45177c664e6640459ec6c800039402e
+      spriteID: 2a2e2d50f165b2e4eac2ba491de6abda
       vertices: []
       indices: 
       edges: []
@@ -206,18 +206,18 @@ TextureImporter:
       name: fireflySprite_3
       rect:
         serializedVersion: 2
-        x: 1895
-        y: 1840
-        width: 385
-        height: 334
+        x: 1800
+        y: 1800
+        width: 600
+        height: 600
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 462d9509b58029f4996c439cafb471c8
+      spriteID: 5a7e9e31094a1eb4a80000cde8539c9d
       vertices: []
       indices: 
       edges: []
@@ -226,18 +226,18 @@ TextureImporter:
       name: fireflySprite_4
       rect:
         serializedVersion: 2
-        x: 1655
-        y: 1868
-        width: 5
-        height: 6
+        x: 0
+        y: 1200
+        width: 600
+        height: 600
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 37d7e8bee16e4234daf7504078146f29
+      spriteID: bb7564d1f92f7b44bba7644a10c5a23b
       vertices: []
       indices: 
       edges: []
@@ -246,18 +246,18 @@ TextureImporter:
       name: fireflySprite_5
       rect:
         serializedVersion: 2
-        x: 1662
-        y: 1869
-        width: 6
-        height: 8
+        x: 600
+        y: 1200
+        width: 600
+        height: 600
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 694157b26a0e42f4c9afea8571e02d9a
+      spriteID: 1a2676acb5b1ed04a98359b0895ca978
       vertices: []
       indices: 
       edges: []
@@ -266,18 +266,18 @@ TextureImporter:
       name: fireflySprite_6
       rect:
         serializedVersion: 2
-        x: 59
-        y: 1341
-        width: 502
-        height: 298
+        x: 1200
+        y: 1200
+        width: 600
+        height: 600
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fce0d0a605c945247bffde0c17a29c0f
+      spriteID: 92ad53d4ca2fd7940a2dce177c89cec6
       vertices: []
       indices: 
       edges: []
@@ -286,18 +286,18 @@ TextureImporter:
       name: fireflySprite_7
       rect:
         serializedVersion: 2
-        x: 667
-        y: 1322
-        width: 479
-        height: 335
+        x: 1800
+        y: 1200
+        width: 600
+        height: 600
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5fcd41e42858cee41b3de767708c872d
+      spriteID: 59e9583bea7f9a043a54d08849bfecc7
       vertices: []
       indices: 
       edges: []
@@ -306,18 +306,18 @@ TextureImporter:
       name: fireflySprite_8
       rect:
         serializedVersion: 2
-        x: 1295
-        y: 1301
-        width: 426
-        height: 398
+        x: 0
+        y: 600
+        width: 600
+        height: 600
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6bfdf3da14ca32244ba014b635452636
+      spriteID: 99874e921add7184fa64e5266f3ea5d8
       vertices: []
       indices: 
       edges: []
@@ -326,18 +326,18 @@ TextureImporter:
       name: fireflySprite_9
       rect:
         serializedVersion: 2
-        x: 1861
-        y: 1314
-        width: 479
-        height: 331
+        x: 600
+        y: 600
+        width: 600
+        height: 600
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b9c4d9635810e8e4caf49a848726f7f8
+      spriteID: f3b16253233d69b4ca507100bba54ff0
       vertices: []
       indices: 
       edges: []
@@ -346,18 +346,18 @@ TextureImporter:
       name: fireflySprite_10
       rect:
         serializedVersion: 2
-        x: 55
-        y: 722
-        width: 497
-        height: 300
+        x: 1200
+        y: 600
+        width: 600
+        height: 600
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a7b4219fcbe610a4c97b30784f46c234
+      spriteID: a233ddbe48ae5a949ab44c2d2b534fc2
       vertices: []
       indices: 
       edges: []
@@ -366,70 +366,10 @@ TextureImporter:
       name: fireflySprite_11
       rect:
         serializedVersion: 2
-        x: 714
-        y: 722
-        width: 385
-        height: 320
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d8c9b465e747b344a8dd373f392b56ab
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fireflySprite_12
-      rect:
-        serializedVersion: 2
-        x: 1250
-        y: 735
-        width: 496
-        height: 299
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: be326544b24149445997b0b04d54ea8e
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fireflySprite_13
-      rect:
-        serializedVersion: 2
-        x: 1870
-        y: 721
-        width: 480
-        height: 335
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 850966642715ea44181758ff81d443c8
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fireflySprite_14
-      rect:
-        serializedVersion: 2
-        x: 2328
-        y: 454
-        width: 48
-        height: 24
+        x: 1800
+        y: 600
+        width: 600
+        height: 600
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -437,7 +377,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 46ef7cd13d80065488701d1e682fe2e9
+      spriteID: 29e241b4c0fd4fb4f90d194b776d89a7
       vertices: []
       indices: 
       edges: []
