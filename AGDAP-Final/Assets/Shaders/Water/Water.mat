@@ -91,7 +91,7 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
-    - Color_460964DF: {r: 0.27754536, g: 0.59176403, b: 0.5943396, a: 1}
+    - Color_460964DF: {r: 0.2769224, g: 0.4395693, b: 0.46226418, a: 1}
     - Color_A2A40204: {r: 0.26517445, g: 0.41243905, b: 0.5566038, a: 1}
     - _Color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
