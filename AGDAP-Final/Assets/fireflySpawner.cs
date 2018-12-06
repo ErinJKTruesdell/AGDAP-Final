@@ -18,10 +18,15 @@ public class fireflySpawner : MonoBehaviour {
         RaycastHit findLoc = new RaycastHit();
 
         float mouseX = Input.mousePosition.x;
-        float mouseY = cam.pixelHeight - Input.mousePosition.y;
-        Ray r = new Ray(cam.ScreenToWorldPoint(new Vector3(mouseX, mouseY, 1f)), cam.transform.forward);
+        float mouseY = Input.mousePosition.y;
 
-        
+            //cam.pixelHeight;// - Input.mousePosition.y;
+
+        Vector3 direction = (cam.ScreenToWorldPoint(new Vector3(mouseX, mouseY, 1f)) - cam.ScreenToWorldPoint(new Vector3(mouseX, mouseY, 0f)));
+
+        Ray r = new Ray(cam.ScreenToWorldPoint(new Vector3(mouseX, mouseY, 0)), direction);
+
+
 
         Physics.Raycast(r, out findLoc);
         Vector3 spawnPoint = findLoc.point;
