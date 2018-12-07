@@ -63,6 +63,8 @@
   <ItemGroup>
     <Compile Include="Assets\fireflySpawner.cs" />
     <Compile Include="Assets\LightLanterns.cs" />
+    <Compile Include="Assets\PlayVideo.cs" />
+    <Compile Include="Assets\SwitchScenes.cs" />
     <Reference Include="Unity.RenderPipelines.Core.Editor">
       <HintPath>D:/Documents/GitHub/AGDAP-Final/AGDAP-Final/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
     </Reference>
